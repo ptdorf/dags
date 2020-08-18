@@ -1,0 +1,5 @@
+airflow:
+  cloneDagFilesFromGit:
+    enabled: true
+    repository: https://github.com/ptdorf/dags
+    branch: master
